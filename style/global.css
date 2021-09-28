@@ -11,7 +11,10 @@ figcaption {
 body {
   color: #666666;
   background-color: #f9f8f6;
-  background-image: url("../images/dark-wood.jpg");
+  background-image: url("../images/warteg.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100%;
   background-position: center;
   font-family: Georgia, Times, serif;
   line-height: 1.4em;
